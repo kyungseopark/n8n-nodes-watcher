@@ -1,18 +1,20 @@
 {
 	"name": "n8n-nodes-watcher",
 	"version": "0.1.0",
-	"description": "",
+	"description": "An n8n node to monitor NPM package updates and detect version changes",
 	"license": "MIT",
 	"homepage": "",
 	"keywords": [
 		"n8n-community-node-package",
 		"n8n",
 		"watch-version",
-		"watcher"
+		"watcher",
+		"npm",
+		"semver"
 	],
 	"author": {
-		"name": "",
-		"email": ""
+		"name": "kyungseopark",
+		"email": "esther082325@naver.com"
 	},
 	"repository": {
 		"type": "git",
