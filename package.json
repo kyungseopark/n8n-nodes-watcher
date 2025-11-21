@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-watcher",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"description": "An n8n node to monitor NPM package updates and detect version changes",
 	"license": "MIT",
 	"homepage": "",
