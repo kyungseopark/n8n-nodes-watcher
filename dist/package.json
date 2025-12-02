@@ -37,7 +37,7 @@
         "strict": true,
         "credentials": [],
         "nodes": [
-            "dist/nodes/NpmWatch/npmwatch.node.js"
+            "dist/nodes/NpmWatch/NpmWatch.node.js"
         ]
     },
     "devDependencies": {
