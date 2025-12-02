@@ -1,0 +1,22 @@
+<svg width="1500" height="1500" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  
+  <g stroke="black" stroke-width="8">
+    
+    <circle cx="42" cy="42" r="28" fill="none" />
+    
+    <line x1="62" y1="62" x2="80" y2="80" stroke-linecap="round" />
+  </g>
+  
+  <text 
+    x="42" 
+    y="45"
+    fill="#CB3837" 
+    font-size="22" 
+    font-weight="bold" 
+    font-family="Arial, Helvetica, sans-serif"
+    text-anchor="middle"
+    dominant-baseline="middle">
+    npm
+  </text>
+  
+</svg>

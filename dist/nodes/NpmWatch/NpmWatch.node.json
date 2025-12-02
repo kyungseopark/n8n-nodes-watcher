@@ -1,0 +1,14 @@
+{
+    "node": "n8n-nodes-npmwatch",
+    "nodeVersion": "1.0",
+    "codexVersion": "1.0",
+    "categories": ["Utility", "Development"],
+    "resources": {
+        "credentialDocumentation": [],
+        "primaryDocumentation": [
+            {
+                "url": "https://github.com/kyungseopark/n8n-nodes-watcher"
+            }
+        ]
+    }
+}
